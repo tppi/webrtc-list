@@ -20,3 +20,5 @@ https://snapcraft.io/camus
 https://snapcraft.io/spreedme
 
 https://snapcraft.io/kamailio-dev
+
+http://www.easyrtc.com/
