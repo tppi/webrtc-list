@@ -5,6 +5,23 @@ https://webrtchacks.com/webrtc-gw/
 
 examples:
 
+https://bigbluebutton.org/
+
+https://github.com/lynckia/licode
+
+https://github.com/meetecho/janus-gateway
+
+https://github.com/jitsi/jitsi-meet
+
+https://github.com/nextcloud/spreed
+
+https://www.kamailio.org/w/
+
+http://www.easyrtc.com/
+
+
+snap:
+
 https://snapcraft.io/janus-gateway
 
 https://snapcraft.io/janus-gateway-alpersoft
@@ -21,6 +38,6 @@ https://snapcraft.io/spreedme
 
 https://snapcraft.io/kamailio-dev
 
-http://www.easyrtc.com/
-
 https://snapcraft.io/zoom-client
+
+
