@@ -11,6 +11,8 @@ https://github.com/lynckia/licode
 
 https://github.com/meetecho/janus-gateway
 
+https://github.com/mozilla/janus-plugin-sfu
+
 https://mediasoup.org/
 
 https://github.com/jitsi/jitsi-meet
