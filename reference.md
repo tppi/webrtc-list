@@ -10,6 +10,9 @@ libwebsockets 不能git checkout v2.4-stable，这个版本加载不了libwebsoc
 
 3. mediasoup  
 
+4. licode  
+https://lynckia.com/licode/install.html
+
 4. OpenMeetings  
 https://cwiki.apache.org/confluence/display/OPENMEETINGS/Tutorials+for+installing+OpenMeetings+and+Tools  
 Manuale Installazione OpenMeetings 2.x.x - 3.x.x Linux Italiano.pdf  
