@@ -1,4 +1,4 @@
-# a-lot-of-webrtc
+# webrtc-list
 
 What is a WebRTC Gateway anyway? (Lorenzo Miniero)  
 https://webrtchacks.com/webrtc-gw/
