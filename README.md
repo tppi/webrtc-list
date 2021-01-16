@@ -93,6 +93,7 @@ https://gitee.com/dong2/janus-gateway/blob/master/README.md
 注意libnice版本(at least v0.1.16 suggested, master recommended)  
 
 3. mediasoup  
+据说阿里，头条都在用这个，不过我不想折腾nodejs，优先c/c++生态.  
 https://blog.csdn.net/gupar/article/details/83788934  
 
 4. licode  
