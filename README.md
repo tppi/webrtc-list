@@ -71,7 +71,7 @@ https://8.134.56.226/sipml5/call.htm
 https://8.134.56.226/demos/
 
 经过一周的调研  
-freeswitch janus-geteway mediasoup licode从安装，配置到二次开发都比较容易.  
+freeswitch janus-geteway mediasoup licode从安装，配置到二次开发都相对比较容易.  
 bigbluebutton安装及其繁琐.   
 openmeetings安装配置较容易，是java生态的.  
 
