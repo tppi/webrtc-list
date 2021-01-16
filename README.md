@@ -93,6 +93,7 @@ https://gitee.com/dong2/janus-gateway/blob/master/README.md
 注意libnice版本(at least v0.1.16 suggested, master recommended)  
 
 3. mediasoup  
+https://blog.csdn.net/gupar/article/details/83788934  
 
 4. licode  
 https://lynckia.com/licode/install.html
