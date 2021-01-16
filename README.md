@@ -83,7 +83,7 @@ linphone接入不了webrtc视频会议，zoiper可以接入webrtc视频会议.
 # reference
 1. freeswitch  
 https://freeswitch.org/confluence/display/FREESWITCH/Debian+9+Stretch  
-debian下按官方wifi安装即可支持视频，默认配置基本可以使用，无需繁琐的自定义配置  
+debian下按官方wiki安装1.10.x版本即可支持视频，默认配置基本可以使用，无需繁琐的自定义配置  
 
 2. janus-gateway  
 https://ourcodeworld.com/articles/read/1197/how-to-install-janus-gateway-in-ubuntu-server-18-04  
