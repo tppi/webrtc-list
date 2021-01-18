@@ -108,6 +108,7 @@ Manuale Installazione OpenMeetings 2.x.x - 3.x.x Linux Italiano.pdf
 
 7. webrtc2sip  
 https://github.com/dong2/2webrtc2sip  
+https://blog.csdn.net/chenhande1990chenhan/article/details/75925868  
 
 8. WEBRTC-to-SIP  
 https://github.com/havfo/WEBRTC-to-SIP  
