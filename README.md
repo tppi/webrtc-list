@@ -47,7 +47,7 @@ https://snapcraft.io/zoom-client
 
 # demo
 本地部署之前可以体验开源视频会议公共的服务器demo  
-公共服务器demo:  
+  
 1. janus-geteway  
 https://janus.conf.meetecho.com/
 
