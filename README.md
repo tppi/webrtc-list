@@ -23,28 +23,6 @@ https://www.kamailio.org/w/
 
 http://www.easyrtc.com/
 
-
-snap:
-
-https://snapcraft.io/janus-gateway
-
-https://snapcraft.io/janus-gateway-alpersoft
-
-https://snapcraft.io/rtsp-to-webrtsp
-
-https://snapcraft.io/spreed-webrtc-snap
-
-https://snapcraft.io/webrtc-streamer
-
-https://snapcraft.io/camus
-
-https://snapcraft.io/spreedme
-
-https://snapcraft.io/kamailio-dev
-
-https://snapcraft.io/zoom-client
-
-
 # demo
 本地部署之前可以体验开源视频会议公共的服务器demo  
   
